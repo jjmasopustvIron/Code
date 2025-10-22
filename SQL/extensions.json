@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "mtxr.sqltools",
+    "mtxr.sqltools-driver-pg",
+    "ms-azuretools.vscode-database",
+    "christian-kohler.path-intellisense",
+    "eamodio.gitlens"
+  ]
+}
